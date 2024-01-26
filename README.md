@@ -1,2 +1,2 @@
-# practica4-github
+# gurdiny
 Practica 4
