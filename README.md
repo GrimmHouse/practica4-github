@@ -1,2 +1,2 @@
-# practica4-github
+ausbeat
 Practica 4
